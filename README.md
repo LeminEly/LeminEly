@@ -78,7 +78,7 @@ Git · GitHub · VS Code · IntelliJ IDEA · Android Studio · Docker · Linux �
   <img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:24209@supnum.mr">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -90,17 +90,7 @@ Git · GitHub · VS Code · IntelliJ IDEA · Android Studio · Docker · Linux �
 
 > *"Build smart, secure, and innovative systems. Learn fast, fail fast, improve faster."*
 
----
 
-## 🐍 GitHub Contribution Activity
-
-<div align="center">
-
-<img src="https://github.com/LeminEly/LeminEly/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
-
-</div>
-
----
 
 ## ❤️ Thank You for Visiting
 

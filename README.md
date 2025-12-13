@@ -24,31 +24,11 @@ I am a passionate **full-stack developer** and **AI / Cybersecurity enthusiast**
 
 ---
 
-## 🧠 Programming Languages
+## 🧠 Programming Languages & Tech
 
 <div align="center">
 
-<img 
-  src="https://skillicons.dev/icons?i=cpp,java,js,python,php,bash,react,nodejs,express,mongodb,tensorflow,pytorch,kali,linux&theme=dark&perline=7" 
-/>
-
-</div>
-
-
----
-
-## ⚡ MERN Stack & AI
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,php,bash,react,nodejs,express,mongodb,tensorflow,pytorch&theme=dark&perline=7"/>
 
 </div>
 
@@ -58,10 +38,7 @@ I am a passionate **full-stack developer** and **AI / Cybersecurity enthusiast**
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark&perline=7"/>
 
 </div>
 
@@ -73,7 +50,7 @@ I am a passionate **full-stack developer** and **AI / Cybersecurity enthusiast**
 
 ## 🛠️ Tools & DevOps
 
-`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `Android Studio` · `Docker` · `Linux` · `Figma`
+Git · GitHub · VS Code · IntelliJ IDEA · Android Studio · Docker · Linux · Figma
 
 ---
 

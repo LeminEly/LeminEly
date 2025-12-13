@@ -27,10 +27,7 @@ I am a passionate **full-stack developer** and **AI / Cybersecurity enthusiast**
 ## 🧠 Technical Skills
 
 ### 💻 Programming & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+https://camo.githubusercontent.com/f73670646fb3fe358ebbee608c3bd066c444e2f11ea135f47d0c1871e8373b6d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c72656163742c6e6f64656a732c657870726573732c707974686f6e2c637070267468656d653d6461726b267065726c696e653d38
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

@@ -6,7 +6,7 @@
 
 💻 **Software Developer | MERN Stack Specialist | AI & Cybersecurity Enthusiast**  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img src="https://camo.githubusercontent.com/f73670646fb3fe358ebbee608c3bd066c444e2f11ea135f47d0c1871e8373b6d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c72656163742c6e6f64656a732c657870726573732c707974686f6e2c637070267468656d653d6461726b267065726c696e653d38" width="500"/>
 
 </div>
 
@@ -24,43 +24,61 @@ I am a passionate **full-stack developer** and **AI / Cybersecurity enthusiast**
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Programming Languages
 
-### 💻 Programming & Frameworks
-https://camo.githubusercontent.com/f73670646fb3fe358ebbee608c3bd066c444e2f11ea135f47d0c1871e8373b6d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c72656163742c6e6f64656a732c657870726573732c707974686f6e2c637070267468656d653d6461726b267065726c696e653d38
+<div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ⚡ Backend / MERN Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+</div>
+
+---
+
+## ⚡ MERN Stack & AI
+
+<div align="center">
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
 
-### 🔐 Cybersecurity
-- Red Teaming / Penetration Testing  
-- Reverse Engineering (Java & APK)  
-- Malware Analysis / Sandbox Testing  
+</div>
+
+---
+
+## 🔐 Cybersecurity Tools
+
+<div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white)
 
-### 🛠️ Tools & DevOps
+</div>
+
+- Red Teaming / Penetration Testing  
+- Reverse Engineering (Java, APK, Ghidra)  
+- Malware Analysis / Sandbox Testing  
+
+---
+
+## 🛠️ Tools & DevOps
+
 `Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `Android Studio` · `Docker` · `Linux` · `Figma`
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -80,7 +98,7 @@ https://camo.githubusercontent.com/f73670646fb3fe358ebbee608c3bd066c444e2f11ea13
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/lemin-ely-24x0x/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

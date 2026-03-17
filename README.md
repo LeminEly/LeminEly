@@ -390,10 +390,10 @@ Top 2% Worldwide, Ranked #4 Nationally, actively solving rooms & challenges
 
 ---
 
-## Trophies
+## Snake 
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LeminEly&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
 </div>
 
 ---

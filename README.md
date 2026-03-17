@@ -393,7 +393,7 @@ Top 2% Worldwide, Ranked #4 Nationally, actively solving rooms & challenges
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LeminEly&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LeminEly&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 ---

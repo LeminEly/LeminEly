@@ -36,7 +36,7 @@ location    : Mauritania
 university  : SUPNUM
 
 domains:
-  - Full-Stack Web (MERN Stack)
+  - Full-Stack [Web,Mobile] (MERN Stack)
   - Artificial Intelligence & ML
   - IoT (Arduino, ESP32, Raspberry Pi)
   - Cybersecurity & CTF Challenges
@@ -48,7 +48,7 @@ achievements:
   - Cybersecurity Analyst Track
 
 currently:
-  - Building AI-powered web applications
+  - Building AI-powered web and mobile applications
   - Exploring IoT & embedded systems
   - Practicing CTFs & deepening security skills
   - Open to internships & collaborations

@@ -148,7 +148,7 @@ currently:
 ### Databases
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase&theme=dark&perline=7" alt="databases"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase&theme=dark&perline=7" alt="databases"/>
 </div>
 
 <div align="center"><br/>
@@ -156,13 +156,10 @@ currently:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=fff)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=fff)
 
 </div>
 

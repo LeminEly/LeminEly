@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lemin%20Ely&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20Security%20Enthusiast&descAlignY=60&descSize=18&descColor=a78bfa" alt="header"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=780&lines=Full-Stack+Developer+%7C+MERN+Specialist;AI+%2F+Machine+Learning+Builder;IoT+Developer+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Cybersecurity+Researcher+%7C+CTF+Player;TryHackMe+Top+2%25+%7C+Ranked+%234+Nationally" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=780&lines=Full-Stack+Developer+%7C+MERN+Specialist;AI+%2F+Machine+Learning+Builder;IoT+Developer+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Cybersecurity+Enthusiast+%7C+CTF+Player;TryHackMe+Top+2%25+%7C+Ranked+%234+Nationally" alt="Typing SVG" />
 
 <br/>
 

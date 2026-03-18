@@ -127,7 +127,7 @@ currently:
 ### Backend & Frameworks
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,laravel,fastapi,flask&theme=dark&perline=7" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,laravel,flask&theme=dark&perline=7" alt="backend"/>
 </div>
 
 <div align="center"><br/>
@@ -136,7 +136,6 @@ currently:
 ![Express.js](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=fff)
@@ -148,7 +147,7 @@ currently:
 ### Databases
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase&theme=dark&perline=7" alt="databases"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark&perline=7" alt="databases"/>
 </div>
 
 <div align="center"><br/>
@@ -156,7 +155,6 @@ currently:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff)
@@ -247,7 +245,6 @@ MQTT, I2C, SPI, UART, HTTP, WebSocket, BLE, Zigbee, LoRa
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=fff)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 
 </div>
@@ -257,7 +254,7 @@ MQTT, I2C, SPI, UART, HTTP, WebSocket, BLE, Zigbee, LoRa
 ### Tools & IDEs
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,figma,notion&theme=dark&perline=6" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,figma&theme=dark&perline=6" alt="tools"/>
 </div>
 
 ---
@@ -275,7 +272,6 @@ MQTT, I2C, SPI, UART, HTTP, WebSocket, BLE, Zigbee, LoRa
 <div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=linux&logoColor=000)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
@@ -295,7 +291,6 @@ MQTT, I2C, SPI, UART, HTTP, WebSocket, BLE, Zigbee, LoRa
 ![tcpdump](https://img.shields.io/badge/tcpdump-005C99?style=for-the-badge&logo=linux&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A2E?style=for-the-badge&logo=wifi&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
 
 </div>
 
@@ -308,8 +303,6 @@ MQTT, I2C, SPI, UART, HTTP, WebSocket, BLE, Zigbee, LoRa
 ![GDB](https://img.shields.io/badge/GDB-FF6600?style=for-the-badge&logo=gnu&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-444444?style=for-the-badge&logo=windows&logoColor=white)
 ![Radare2](https://img.shields.io/badge/Radare2-1E1E2E?style=for-the-badge&logo=linux&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-2E4057?style=for-the-badge&logo=linux&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -331,7 +324,7 @@ MQTT, I2C, SPI, UART, HTTP, WebSocket, BLE, Zigbee, LoRa
 
 **Red Teaming**
 
-Network Pen Testing, Web App Attacks, Privilege Escalation, Post-Exploitation, CTF Challenges
+Network Pen Testing, [Web,Mobile] App Attacks, Privilege Escalation, Post-Exploitation, CTF Challenges
 
 </td>
 <td align="center" width="25%">

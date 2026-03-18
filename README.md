@@ -31,7 +31,7 @@
 
 ```yaml
 name        : Lemin Ely
-role : Mid-Level Full-Stack Developer | Cybersecurity Enthusiast
+role        : Mid-Level Full-Stack Developer | Cybersecurity Enthusiast
 location    : Mauritania
 university  : SUPNUM
 

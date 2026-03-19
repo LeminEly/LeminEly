@@ -430,7 +430,7 @@ Top 2% Worldwide, Ranked #4 Nationally, actively solving rooms & challenges
 
 **Star my repos if you find them useful**
 &nbsp;&nbsp;|&nbsp;&nbsp;
-**Open to collaborations: AI, Web, IoT, Security**
+**Open to collaborations: AI, {Web,Mobile}, IoT, Security**
 &nbsp;&nbsp;|&nbsp;&nbsp;
 **Let's build innovative and secure technology together**
 

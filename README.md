@@ -352,19 +352,19 @@ Top 2% Worldwide, Ranked #4 Nationally, actively solving rooms & challenges
 </table>
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeminEly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-delta-brown-87.vercel.app/api?username=LeminEly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=LeminEly&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff4757&currStreakLabel=a78bfa&background=0d1117" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeminEly&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats-delta-brown-87.vercel.app/api/top-langs/?username=LeminEly&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 
 </div>
+
 ---
 
 ## Snake 

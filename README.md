@@ -357,7 +357,7 @@ Top 2% Worldwide, Ranked #4 Nationally, actively solving rooms & challenges
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-delta-brown-87.vercel.app/api?username=LeminEly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=LeminEly&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff4757&currStreakLabel=a78bfa&background=0d1117" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=LeminEly&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff4757&currStreakLabel=a78bfa&background=0d1117" alt="GitHub Streak"/>
 
 <br/><br/>
 
